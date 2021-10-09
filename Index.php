@@ -19,15 +19,6 @@ curl_close($ch);
 
 
 
-print ("$resultt ");
+print ("$result ");
 
-$boshqa="Muzanova.com.";
-$meniki="Bbbjgcd";
-$text="nurbek";
-$new_text=str_replace($boshqa, $meniki, $text);
-
-
-
-
-echo "$new_text";
 }
